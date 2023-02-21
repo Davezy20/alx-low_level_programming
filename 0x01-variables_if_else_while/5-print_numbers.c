@@ -3,7 +3,7 @@
 /**
  * main - this is the main function
  *
- * Respect: this is often 0
+ * Return: this is often 0
  */
 int main(void)
 {
